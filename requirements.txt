@@ -1,5 +1,5 @@
 ipython
 ipykernel
 matplotlib
-seaborn
 scikit-learn
+numpy
